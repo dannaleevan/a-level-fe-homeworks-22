@@ -13,7 +13,6 @@ const housingType = [
             alt: 'Service housing'
         },
     }
-
 ];
 
 const informationContent = [
@@ -23,8 +22,7 @@ const informationContent = [
         img: '',
         info: "https://zakon.rada.gov.ua/laws/show/2011-12#Text",
         kmu: "https://zakon.rada.gov.ua/laws/show/1081-2006-%D0%BF#Text",
-        mou: "https://zakon.rada.gov.ua/laws/show/z1020-18#Text"
-              
+        mou: "https://zakon.rada.gov.ua/laws/show/z1020-18#Text"       
     },
     {
         name: "Постановка на чергу",
